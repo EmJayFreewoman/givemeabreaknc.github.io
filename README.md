@@ -1,2 +1,2 @@
-# givemeabreaknc.github.io
-Dog-walking services, including play and basic training, in Goldsboro
+#**Give Me a Break!**
+##Dog-walking services, including play and basic training, in Goldsboro
